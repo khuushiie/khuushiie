@@ -10,9 +10,7 @@ I'm a MERN stack developer and open-source enthusiast who loves building cool pr
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 
 ## 🎖 Badges
-![Holopin Badge Level 0](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)
-![Holopin Badge Level 1](https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp)
-![Postman Badge](https://media.badgr.com/uploads/badges/assertion-ts543W7cSjSsQ8WXDyZNtA.png?versionId=l9u.oPfVJEaTY7.ghdWn4WkTy2x3PfRt)
+![Holopin Badge Level 0](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)![Holopin Badge Level 1](https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp)![Postman Badge](https://media.badgr.com/uploads/badges/assertion-ts543W7cSjSsQ8WXDyZNtA.png?versionId=l9u.oPfVJEaTY7.ghdWn4WkTy2x3PfRt)
 
 ## 🌟 Let's Connect
 Feel free to check out my work and reach out!
